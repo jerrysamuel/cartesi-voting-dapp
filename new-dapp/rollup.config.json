@@ -1,0 +1,7 @@
+{
+    "inputDir": "/opt/cartesi/dapp",
+    "outputDir": "/opt/cartesi/dapp/output",
+    "httpPort": 5004,
+    "wsPort": 5005,
+    "serverUrl": "http://localhost:5004"
+}
